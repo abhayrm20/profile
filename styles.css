@@ -1,0 +1,23 @@
+body {
+  background-color: #eaf6f6;
+  font-family: Montserrat;
+}
+h1 {
+  color: #66bfbf;
+  font-family: Sacramento;
+}
+h2, h3 {
+  font-family: Merriweather;
+}
+
+.maindiv {
+  text-align: center;
+}
+
+.skilldiv {
+  font-weight: bold;
+}
+
+section {
+  text-align: right;
+}
